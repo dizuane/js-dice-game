@@ -7,3 +7,9 @@ A very simple version of "The Pig Game" written in JavaScript (ES5)
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score and it immediately becomes the next player's turn.
 - The first player to reach 100 points on the GLOBAL score wins the game.
 
+## Paradigms
+- Variables
+- Functions (DRY principal)
+- Scoping
+- Conditionals
+- DOM manipulation
